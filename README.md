@@ -1,147 +1,148 @@
-👨‍💻 Mustafa Sultani — Software Engineer & Full-Stack Developer
-<div align="center">
-🎓 BSc. Computer Science | Herat University
-💻 Full-Stack Developer | React.js • Node.js • Laravel • Spring Boot
+# 👨‍💻 Mustafa Sultani — Software Engineer & Full-Stack Developer
 
-🌍 Kabul, Afghanistan | 📧 mustafasultani388@gmail.com
- | 📱 +93 774 678 471
+<div align="center">
+
+## 🎓 BSc. Computer Science | Herat University  
+### 💻 Full-Stack Developer | Backend Engineer | System Integrator
+
+📍 **Kabul, Afghanistan** | 📧 **mustafasultani388@gmail.com**  
+📱 **(+93) 774 678 471 / (+93) 775 058 696**
 
 </div>
-🚀 Professional Summary
 
-Full-Stack Software Engineer with hands-on experience in building scalable, secure, and user-focused web applications. Skilled in React.js, Node.js (Express), Laravel, Spring Boot, and JSF, with strong knowledge of RESTful and GraphQL API design. Passionate about modern software architecture, clean code, and developing real-world digital solutions.
-Committed to continuous learning and contributing to impactful, high-quality projects.
+---
 
-🛠 Technical Proficiency
-Backend Development
+## 🚀 Professional Summary
+
+Full-stack engineer experienced in developing scalable and secure software solutions using **React.js, Node.js, Laravel, and Spring Boot**. Strong knowledge of RESTful & GraphQL APIs, database design, and system integration with modern UI/UX principles. Passionate about building real-world impactful projects, optimizing performance, and collaborating in agile environments to deliver clean, maintainable code.
+
+---
+
+## 🛠 Technical Expertise
+
+### 🔹 Backend Technologies  
 <div align="center">
 
-
-
-
-
-
-
-
-
-
-
-
-
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
-Frontend Development
+
+### 🔹 Frontend Technologies  
 <div align="center">
 
-
-
-
-
-
-
-
-
-
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JSF](https://img.shields.io/badge/JSF-323330?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
-Databases & Infrastructure
+
+### 🔹 Databases & DevOps  
 <div align="center">
 
-
-
-
-
-
-
-
-
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
-Development Tools
+
+### 🔹 Tools & Concepts  
 <div align="center">
 
-
-
-
-
-
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-📂 Notable Projects
-Tele_Doctor Portal & Admin Panel
 
-Designed and built complete telemedicine system
+---
 
-Real-time audio/video calling with Firebase
+## 📂 Featured Projects
 
-Doctor & Admin dashboards, appointment system
+### 🩺 Tele_Doctor Portal & Admin Panel
+Built a fully-functional telemedicine system using **React.js, Node.js & Firebase** with  
+🔹 Real-time audio/video calls  
+🔹 Doctor/Admin dashboards  
+🔹 Secure user authentication  
 
-React.js + Node.js + Firebase
+---
 
-Bank SMS Portal (JSF + XHTML + MySQL)
+### 📞 Call Center System
+Worked on full-stack development and VoIP integration using  
+**React.js | Spring Boot | MySQL | Asterisk**, including:  
+✔ Agent management  
+✔ Real-time call tracking  
+✔ Call logs & user role-based access  
 
-Secure transactional SMS delivery system
+---
 
-Customer management, message templating, tracking
+### 💬 Bank SMS Portal  
+Web-based financial notification system built with:  
+**JSF | XHTML | MySQL**  
+✔ Automated banking alerts  
+✔ Transaction monitoring  
+✔ Template-based messaging  
 
-JSF + MySQL backend implementation
+---
 
-Call Center System
+### 🏫 MIS System for Kaaj Academy  
+Core PHP + MySQL solution for education management  
+✔ Student & course modules  
+✔ Attendance & grading automation  
+✔ Applied **Singleton & Factory pattern**
 
-Built using React.js, Spring Boot, MySQL, Asterisk
+---
 
-Includes call handling, agent management, call logs
+## 📊 GitHub Analytics  
 
-Integrated VoIP telephony with backend APIs
-
-MIS for Kaaj Academy
-
-Student registration, attendance, course management
-
-Applied Singleton & Factory Method patterns
-
-Core PHP + MySQL system
-
-📈 GitHub Analytics
 <div align="center">
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafasultani&show_icons=true&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafasultani&layout=compact&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafasultani&theme=algolia)
 
 </div>
-🎯 Professional Interests
 
-Full-Stack Development
+---
 
-Real-time Apps (WebRTC, Firebase)
+## 🎯 Focus Areas & Interests
 
-System Architecture & Scalable Design
+- Full-Stack Application Development  
+- Cloud-based Systems & Real-Time Apps  
+- API Architecture (REST & GraphQL)  
+- DevOps & CI/CD (Beginner)  
+- Database Design & Optimization  
+- Tech Community & Mentoring  
 
-API Development (REST & GraphQL)
+---
 
-Software Design Patterns
+## 📞 Contact & Social Links
 
-Teaching & Mentorship
-
-Networking & Infrastructure
-
-📞 Contact & Professional Links
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:mustafasultani388@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MustafaSultani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaSultani)
 
-
-
-
-
-📱 +93 774 678 471
+📱 **(+93) 774 678 471 — (+93) 775 058 696**
 
 </div>
-<div align="center">
-"Building impactful, scalable, and user-centered software — one line of code at a time."
 
-⭐ Connect with me on professional platforms
+---
+
+<div align="center">
+
+### ✨ *“Turning ideas into scalable digital solutions.”*  
+⭐ Feel free to explore my repositories & connect with me!
 
 </div>
